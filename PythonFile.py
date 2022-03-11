@@ -7,3 +7,12 @@ print("R")
 #.
 #fk
 print("y")
+
+
+
+if 1 == 1:
+    0==0
+
+
+#45x
+print("36d")
