@@ -14,8 +14,8 @@ if 1 == 1:
 #45x
 print("36d")
 
-
-
-
+class er:
+    1 ==1
+#=
 
 #hello
